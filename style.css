@@ -4,6 +4,7 @@ html{
 }
 h1{
     text-align: center;
+    padding-top: 10px;
     padding-bottom: 10px;
     border-bottom: dotted 10px black;
 }
@@ -16,10 +17,14 @@ h3{
     padding-right: 50px;
 }
 h4{
-    padding-left: 50px;
-    padding-right: 50px;
-}
-p,ol{
     padding-left: 70px;
     padding-right: 70px;
+}
+p{
+    padding-left: 90px;
+    padding-right: 90px;
+}
+ol{
+    padding-left: 110px;
+    padding-right: 110px;
 }

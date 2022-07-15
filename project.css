@@ -16,3 +16,72 @@ h1{
 img{
     float:right;
 }
+div.b{
+    display:grid;
+    grid-template-columns:1fr 5fr;
+    grid-gap:0px;
+    width:100%;
+}
+.a{
+    position:relative;
+    height:auto;
+    margin:auto;
+}
+.a img.c{
+    width:13.94px;
+    height:16.91px;
+    position:absolute;
+    transform:translate(-50%,-50%);
+}
+img.c:hover{
+    opacity:0.7;
+    cursor:pointer;
+}
+img[name = Cairo]{
+    top:53%;
+    left:15%;
+}
+img[name = Moscow]{
+    top:50%;
+    left:50%;
+}
+img[name = Johannesburg]{
+    top:50%;
+    left:50%;
+}
+img[name = Beijing]{
+    top:50%;
+    left:50%;
+}
+img[name = Tokyo]{
+    top:50%;
+    left:50%;
+}
+img[name = Singapore]{
+    top:50%;
+    left:50%;
+}
+img[name = Sydney]{
+    top:50%;
+    left:50%;
+}
+img[name = London]{
+    top:50%;
+    left:50%;
+}
+img[name = Paris]{
+    top:50%;
+    left:50%;
+}
+img[name = RiodeJaneiro]{
+    top:50%;
+    left:50%;
+}
+img[name = NewYork]{
+    top:50%;
+    left:50%;
+}
+img[name = LosAngeles]{
+    top:50%;
+    left:50%;
+}
